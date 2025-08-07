@@ -1,0 +1,37 @@
+{
+  "short_name": "Ecosort",
+  "name": "Ecosort Waste Management App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "peachpuff",
+  "theme_color": "rgb(255 218 185)",
+  "orientation": "portrait",
+  "screenshots": [
+    {
+      "src": "/screenshots/screen1-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Desktop view showing main dashboard"
+    },
+    {
+      "src": "/screenshots/screen2.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "label": "Mobile view showing user profile"
+    }
+      ],
+  "icons": [
+    {
+      "src": "/icons/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+    
+  ]
+}
